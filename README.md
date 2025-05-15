@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Bagora</h1>
-<h3 align="center">🚀 MCA Student | Developer | Tech Enthusiast | Lifelong Learner</h3> hh
+<h3 align="center">🚀 MCA Student | Developer | Tech Enthusiast | Lifelong Learner</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=600&lines=MCA+@+IIPS+(DAVV)+%7C+Class+of+2K22;Passionate+about+Web+%26+Software+Development;Always+Learning+Something+New!" alt="Typing SVG" />
